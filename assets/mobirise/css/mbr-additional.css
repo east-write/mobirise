@@ -667,6 +667,13 @@ h6,
 #header3-3h B {
   color: #000000;
 }
+#features3-3i P {
+  color: #000000;
+  font-size: 20px;
+}
+#features1-65 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 
 #menu-3l .hide-buttons .nav-btn {
   display: none !important;
@@ -833,4 +840,79 @@ h6,
 }
 #content1-61 H3 {
   font-family: 'Montserrat', sans-serif;
+}
+
+#menu-67 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-67 .navbar-caption {
+  color: #ffffff;
+}
+#menu-67 .navbar-toggler {
+  color: #2b0680;
+}
+#menu-67 .link,
+#menu-67 .dropdown-item {
+  color: #2b0680;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-67 .link {
+  font-size: 1.2rem;
+}
+#menu-67 .dropdown-item,
+#menu-67 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#menu-67 .link:hover,
+#menu-67 .dropdown-item:hover,
+#menu-67 .link:focus,
+#menu-67 .dropdown-item:focus {
+  color: #f7da64;
+}
+#menu-67 .link[aria-expanded="true"],
+#menu-67 .dropdown-menu {
+  background: #307193;
+}
+#menu-67 .nav-dropdown-sm .link:focus,
+#menu-67 .nav-dropdown-sm .link:hover,
+#menu-67 .nav-dropdown-sm .dropdown-item:focus,
+#menu-67 .nav-dropdown-sm .dropdown-item:hover {
+  background: #3985ad!important;
+}
+#menu-67 .navbar,
+#menu-67 .nav-dropdown-sm,
+#menu-67 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-67 .nav-dropdown-sm .dropdown-menu {
+  background: #3d8eb9;
+}
+#menu-67 .bg-color.transparent .link {
+  color: #2b0680;
+  transition: none;
+}
+#menu-67 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-67 .bg-color.transparent.opened .link:hover,
+#menu-67 .bg-color.transparent.opened .link:focus {
+  color: #f7da64;
+}
+#menu-67 .link[aria-expanded="true"],
+#menu-67 .dropdown-item[aria-expanded="true"] {
+  color: #f7da64!important;
+}
+#menu-67.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-67 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-67 .close-icon::before,
+#menu-67 .close-icon::after {
+  background-color: #2b0680;
+}
+#header5-68 .mbr-section-title {
+  color: #000;
+}
+#header5-68 .mbr-section-lead {
+  color: #000000;
 }
