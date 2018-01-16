@@ -182,8 +182,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -197,7 +197,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Eastwood Writers",
+          "title": "&nbsp; Eastwood Writers",
           "text": "<p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">We meet on Monday afternoons (term time only) from 2.15 until 4.15pm in Woodfarm High School, Thornliebank, Glasgow. We are always seeking new members. As amateur but enthusiastic writers, we encourage our members to develop their writing skills with our challenging syllabus featuring a wide range of topics. We expect members to write 1000 words on a specific topic each week.</span></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">We are affiliated to the Scottish Association of Writers. This permits members to enter competitions and attend its annual conference. The competitions attract entries from all over Scotland. We can modestly claim a fair share of the awards.</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">if you require more information please send an email to our hon. secretary at </b><a href=\"mailto:gmckendry@aol.com\" class=\"text-black\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(188, 232, 255);\"><b>gmckendry@aol.com</b></a></p><p><br></p><p><a href=\"mailto:gmckendry@aol.com\" class=\"text-black\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(188, 232, 255);\"><b><br></b></a></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"mailto:gmckendry@aol.com\" class=\"text-black\"><b><br></b></a></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><div><br></div><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         }
@@ -647,113 +647,6 @@
               "font-size": "20px"
             }
           }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-65",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
         }
       ]
     },
@@ -1113,10 +1006,10 @@
         {
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#c5f4c5"
           },
-          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><p><b><u>Wilderness House</u>&nbsp;</b></p><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b>Jane Thought She had Found Mr Right        \n</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Scary Story                                              \n</b></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Double Standards - The Rudolf Hess Cover-up\n</b></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
+          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><p><b><i><u><a href=\"page5.html\" target=\"_blank\" class=\"text-danger\">Wilderness House</a></u><a href=\"page5.html\" target=\"_blank\">&nbsp;</a></i></b></p><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b>Jane Thought She had Found Mr Right        \n</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Scary Story                                              \n</b></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Double Standards - The Rudolf Hess Cover-up\n</b></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1148,103 +1041,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#2b0680"
-            },
-            ".link, .dropdown-item": {
-              "color": "#2b0680",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#2b0680",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#2b0680"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#3d8eb9",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
-            "fontColor": "#2b0680",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"syllabus.html\">SYLLABUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"books.html\">BOOKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"anthology.html\">ANTHOLOGY</a></li>",
-          "_anchor": "menu-67"
-        },
         {
           "_inherit": "header1",
           "_styles": {
