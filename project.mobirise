@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "anthology.html",
     "versionFirst": "3.8.4",
-    "uniqCompNum": 229,
+    "uniqCompNum": 231,
     "versionPublish": "4.5.4",
     "name": "My Site",
     "theme": {
@@ -206,7 +206,7 @@
     "syllabus.html": {
       "settings": {
         "title": "SYLLABUS",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Syllabus"
       },
       "components": [
@@ -373,7 +373,7 @@
     "books.html": {
       "settings": {
         "title": "BOOKS",
-        "order": 6,
+        "order": 7,
         "meta_descr": "Books"
       },
       "components": [
@@ -653,7 +653,7 @@
     "news.html": {
       "settings": {
         "title": "NEWS",
-        "order": 7,
+        "order": 8,
         "meta_descr": "Nwews"
       },
       "components": [
@@ -903,7 +903,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "ANTHOLOGY",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1009,7 +1009,7 @@
             "paddingBottom": "0",
             "bgColor": "#c5f4c5"
           },
-          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b><u>SCARY STORY</u></b></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Double Standards - The Rudolf Hess Cover-up\n</b></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
+          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page7.html\" class=\"text-danger\"><b>SCARY STORY</b></a></u></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page8.html\" class=\"text-danger\"><b>DOUBLE STANDARDS - TTHE RUDOLPH HESS COVER-UP</b></a></u></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1038,7 +1038,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Wilderness House",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1085,7 +1085,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Jane Thought she had Found Mr Right",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1230,7 +1230,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Scary Story",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1370,6 +1370,153 @@
           ],
           "_name": "header5",
           "_anchor": "header5-6c"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Double Standards",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2b0680"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2b0680",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2b0680",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#2b0680",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"syllabus.html\">SYLLABUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"books.html\">BOOKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"anthology.html\">ANTHOLOGY</a></li>",
+          "_anchor": "menu-6d"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Double Standards - the Rudolph Hess Cover-up",
+          "text": "&nbsp;<br><b>                        by Wallace Hunter\n</b><br><br>It is not one book I refer to but many as I think that I have read just about every publication on the remarkable events of May the tenth 1941 around the time of 11 pm. It was a Saturday night and at that hour and on that day the memory of many a Glaswegian does tend to be somewhat clouded!\n<br>\n<br>My interest is not my dedicated personally proclaimed fascination of the history of the Second World War on all fronts, but to my present and immediate past geographical residential locations. I now live in Waterfoot and previously in Newton Mearns. My distance now and then measures around the half kilometer mark both due east and west from the spot where Rudolf Hess made landfall. I am none the wiser but, as you may conclude, am in as good a position as any historian, amateur or professional, to query the record of events.\n<br>\n<br>Even the British Broadcasting Corporation in a recent commemoration got it painfully wrong. It disturbed me greatly as I am a great admirer of the institution. As a separate tribute my feelings are that this country of ours is in greater need of it than it was during the first half of the 1940’s.\n<br>\n<br>The commemorative broadcast advised us that he landed on the Eaglesham Moor at a place called Floors Farm – he did nothing of the kind. The moor extends to both the south and west of that historic village. His landing was due north on arable land at Windhill Farm which just happens to be off Floors road. Hence lies the root of the misnomer.\n<br><br>In every publication, I have read there is emphasised the element of surprise. There appears also to be an extreme lack of local knowledge. This is a very relevant golfing expression upon which I dwelt. One of my first alerts was from the testimony of the first British serviceman to confront Hess. His name was sergeant Danny Mcbride. He was stationed at Eaglesham House which was then a very significant radio and telecommunications centre. The structure no longer exists having been destroyed by fire. That fateful night just happened to be on one of the heaviest Luftwaffe bombing raids of the war. All such stations were most certainly on full alert. Yet the testimony claims that he and his colleagues were asleep at the time and were awoken by the aircraft engine noise. His statement claims he hurriedly dressed and went outside to investigate. He claimed to be wearing slacks, vest, and boots. On reading this I was now on full alert.\n<br>\n<br>As both the son and nephew of Scottish, British Army wartime sergeants I can assure you that such men wore flannels rather than slacks. The statement had all the hallmarks of a carefully worded prepared statement compiled in Whitehall rather than Renfrewshire. Furthermore, with the previously mentioned apparel sergeant McBride could produce a pencil and paper to facilitate note taking. Few pockets available in either a vest or slacksit occurred to me. Such pockets and writing materials would likely be available of course in a betting shop or golf \n<br>course. They would certainly be in the army uniform of an on-duty soldier I considered.\n<br>\n<br>Now I return to the matter of local knowledge. I decided to talk with older members of local golf clubs and found what I was looking for which disputed the question of surprise. From a reliable source I was advised that the Home Guard had been on duty by Eaglesham House for the entire previous week! No mention of this had ever been made in any of the volumes I had read.\n<br>\n<br>Hess maintained that his objective had been to land on a grass airstrip at Dungavel  House, then the home of the Duke of Hamilton, which lies about 8 miles due south as the crow flies from Eaglesham. He was unable to do so as apparently the landing lights had been switched off presumably to thwart him. If left to his own devices he \n<br>ould most likely have carried on into the hills of South Ayrshire or out into the Clyde estuary. Had either action been taken then it would have been unlikely that the remains of the aircraft - or that of the Reichsfuhrer - would ever have been traced. He claimed that his mission was to broker a peace deal with the United Kingdom. Why then did he turn north in the gathering darkness and head for Glasgow? The strong possibility is that a beacon, such as a communications centre could provide, may have played a role in his guidance.\n<br>\n<br>The significance and timing of a peace being established is a very relevant one. Bear in mind that in the next month Germany’s operation Barbarossa, the invasion of the Soviet Union, was due to commence. Thus, there would be the military nightmare of a war on two fronts. Had his mission been successful there would have been no Atlantic convoys, no bombing raids over Germany and no Normandy landings. It is also probable that the United States would not have entered the war in Europe although it’s pending confrontation with Japan would go ahead for economic reasons.\n<br>\n<br>There have been many rumors of just who were waiting at Dungavel that night for his arrival. That list will never be verified. What is certain is that the British nobility of the time had a much greater fear of Communism than that of National Socialism. It was only some 20 years since the murder of the Russian royal family, related to that of the British. With a peace deal in position the Wehrmacht would very likely have been able to remove the threat. Sadly, but inevitably it would also have resulted in the continuation of the heinous holocaust and the elimination of the Jewish peoples of Europe. I ask myself is there a debt of gratitude due to the activities of Eaglesham House on that fateful night – particularly by those of the faith.\n<br>\n<br>What follows may be considered as fanciful conjecture. Those of us residing in the area will recall the long, difficult, and ultimately successful campaign for the building of a factory for the production of hi-fidelity music reproduction units, considered by aficionados as being the most superior available. Who am I to challenge this being not very musically inclined? The construction was to be on a greenfield site, formally that of Eaglesham House. There were many other locations available at the time, very likely at lower cost. The owning family stuck doggedly to their objective. In my engineering days, I had dealings with them and was mightily impressed – particularly with the founding father whose presence and integrity I will never forget. Every time I walk or drive by I smile and inwardly nod, thinking of Mr. Jack.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-6e"
         }
       ]
     }
