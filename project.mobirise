@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "anthology.html",
     "versionFirst": "3.8.4",
-    "uniqCompNum": 233,
+    "uniqCompNum": 237,
     "versionPublish": "4.5.4",
     "name": "My Site",
     "theme": {
@@ -206,7 +206,7 @@
     "syllabus.html": {
       "settings": {
         "title": "SYLLABUS",
-        "order": 7,
+        "order": 9,
         "meta_descr": "Syllabus"
       },
       "components": [
@@ -373,7 +373,7 @@
     "books.html": {
       "settings": {
         "title": "BOOKS",
-        "order": 8,
+        "order": 10,
         "meta_descr": "Books"
       },
       "components": [
@@ -653,7 +653,7 @@
     "news.html": {
       "settings": {
         "title": "NEWS",
-        "order": 9,
+        "order": 11,
         "meta_descr": "Nwews"
       },
       "components": [
@@ -903,7 +903,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "ANTHOLOGY",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1009,7 +1009,7 @@
             "paddingBottom": "0",
             "bgColor": "#c5f4c5"
           },
-          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page7.html\" class=\"text-danger\"><b>SCARY STORY</b></a></u></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page8.html\" class=\"text-danger\"><b>DOUBLE STANDARDS - TTHE RUDOLPH HESS COVER-UP</b></a></u></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b><u>THE KILLING AT KILDONAN</u></b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>JANE SLIPS UP&nbsp;</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
+          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page7.html\" class=\"text-danger\"><b>SCARY STORY</b></a></u></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page8.html\" class=\"text-danger\"><b>DOUBLE STANDARDS - TTHE RUDOLPH HESS COVER-UP</b></a></u></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><u><a href=\"page9.html\" class=\"text-danger\"><b>THE KILLING AT KILDONAN</b></a></u></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b><a href=\"page10.html\" class=\"text-danger\"><b><u>JANE SLIPS UP</u></b></a>&nbsp;</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><u><br></u></p><p><a href=\"page11.html\" class=\"text-danger\"><b><u>A QUIET BELIEF IN ANGELS</u></b></a></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1038,7 +1038,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Wilderness House",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -1085,7 +1085,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Jane Thought she had Found Mr Right",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1230,7 +1230,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Scary Story",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1377,7 +1377,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Double Standards",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1524,7 +1524,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "The killing at Kildonan",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -1664,6 +1664,294 @@
           ],
           "_name": "header5",
           "_anchor": "header5-6g"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Jane slips up",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2b0680"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2b0680",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2b0680",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#2b0680",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"syllabus.html\">SYLLABUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"books.html\">BOOKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"anthology.html\">ANTHOLOGY</a></li>",
+          "_anchor": "menu-6h"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Jane Slips Up",
+          "text": "<br><b>                        by Nada Mooney\n</b><br>\n<br>\n<br>Jane had just reached her car, when she slipped on the icy surface. She went one way and her trolley another. She sprawled on the cold concrete on the verge of tears, when out of nowhere a young man appeared and helped her to get up.\n<br>\"My arm is sore,\" she said, in answer to his question, \"but I think I'm all right. \" \n<br>\"Keys!\" he said, and she handed them over. He quickly stowed her shopping in the boot, returned the trolley and pressed the pound coin into her hand. He opened the passenger door and indicated she should get in.\n<br>\"You're in no state to drive. I will take you home.\"\n<br>She tried to protest but he would have none of it.\n<br>\"Nice car,\" he said, stroking the leather interior.\n<br>\n<br>He carried her shopping into the house, put the kettle on and made her a cup of hot, sweet tea. As she sipped it gratefully, he told her that his name was Ivor Macdonald. He was a marine engineer, at present on leave and staying with his aunt nearby. Jane assured him she didn't need to see a doctor. Her elbow, though tender seemed to be working perfectly, so she thanked him effusively and he called a taxi for himself. Next day he called to ask how she was and stayed for a coffee. The day after he called in and stayed for lunch. On the third day he stayed the night.\n<br>\n<br>'This can't be happening,' Jane said to herself. But it was and she felt wonderful and twenty years younger.\n<br>\"On Friday,\" Ivor said before he left that morning, \"I shall take you out for dinner. I'll book a table and let you know what time I'll be picking you up.\" Jane was walking six inches above the ground, looking in her wardrobe and planning what to wear for their first date. It was so exciting.\n<br>\n<br>On Friday the phone rang.\n<br>\"I've booked The Centurian for seven-thirty, but there's a problem with my car. Could you possibly meet me there? The table's booked under Macdonald.\" She purposely arrived a little late, but he was waiting and jumped up to greet her. As he helped her off with her coat, he whispered, \"You look stunning. \"\n<br>\n<br>The wine was already on the table and the waiter stepped over to fill their glasses.\n<br>\"Here's to a lucky chance meeting.\" said Ivor, clinking crystal to crystal.\n<br>\"I can only have one glass,\" said Jane. \"I'm driving, after all.\" He looked crestfallen.\n<br>\"Nonsense.\" he said, \"We'll get a cab and you can collect the car tomorrow. Now - what about some food?\" \n<br>\n<br>They studied the menu and made their choices. A memorable starter led to an unbelievable steak with perfect accompaniment. Jane was in seventh heaven — she had been living on supermarket ready meals for two years since Bernard died. There didn't seem much point in cooking for herself. Wine and conversation flowed easily and time was of no consequence. They sat back, contented. The waiter appeared with two menus.\n<br>\"Will you be having a sweet, Sir.\"\n<br>\"Yes,\" said Ivor. He lifted Jane's menu and propped it up in front of her.\n<br>\"Could you order ice cream for me, please, I have to go to the little boy's room.\"\n<br>\n<br>As he stood up his napkin fluttered down and he bent to retrieve it, before walking swiftly away. Jane swithered over the selection and made her decision. Before long two fancy plates arrived. Relishing the superb dish, she ate slowly and wondered if she could possibly manage a coffee as well. Though fairly intoxicated, she did think that Ivor had been gone some time and felt vaguely concerned.\n<br>\n<br>\"Does Madam wish to order coffee ?\"\n<br>\"Yes, thank you, a small black one would be nice.\"\n<br>She sipped it slowly. Ivor's ice cream was now a milky splodge and panic was rising in her chest. The waiter approached.\n<br>\"Your son does not wish his sweet?\"\n<br>\"He's not ... \" she hesitated, \"feeling well. He's gone to the toilet.\"\n<br>\"Oh, I'm sorry. Would you like me to check that he's all right?\"\n<br>\"I would be grateful.\" she said.\n<br>\n<br>Some time passed and the manager arrived.\n<br>\"There are no customers in the men's toilet. Do you think he has gone home?\" She was perplexed to say the least. He placed the familiar silver dish on the table.\n<br>\"Perhaps Madam would care to settle the bill?\"\n<br>\"Of course.\" said Jane, stretching down for her bag and finding — nothing. Her life was in that bag. Car keys, house keys, cash, credit cards. Everything.\n<br>\"Could you call the police, please?\" she whispered.\n<br> \n<br>\n<br>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-6i"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "A quiet belif in angels",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2b0680"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2b0680",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2b0680",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#2b0680",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"syllabus.html\">SYLLABUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"books.html\">BOOKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"anthology.html\">ANTHOLOGY</a></li>",
+          "_anchor": "menu-6j"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "A Quiet Belief in Angels",
+          "text": "<br><b>                        by Cully Pettigrew</b>\n<br>\n<br>\n<br>\"Jonathan, what time do you think it is? ... Bedtime! Go brush your teeth and remember, wash behind your ears.\"\n<br>\"Ok Daddy, but will you tell me a bedtime story?\"\n<br>\"Ask your Mum, Jonathan. I`m busy right now.\"\n<br>\"No Daddy, you tell me a story. Mummy`s stories are too boring and send me to sleep.\" \n<br>\"Och, Jonathan, that`s the whole idea of a story. Anyway, its well past your bedtime. Mum and I will need to talk to Santa about some important things. He`s a busy chap and if we don’t speak to him tonight you`ll end up with an empty stocking.\"\n<br>\"Oh daddy, I was hoping my present would fit into something a lot bigger than a stocking…..maybe a pair of mum`s tights?\" \n<br>\"Jonathan, we`ll just have to see. Its meant to be a surprise.\"\n<br>\"All right, but I hope it’s a big surprise. Just give me a teeniewee story, please, please, please. Tell me a Christmas story,one about how Christmas was celebrated a long long time ago.\"\n<br>\"Ok, just one story, then you`re off to beddy-buys, my boy. Go and get ready... now!\"\n<br><br>Jonathan dutifully brushes his teeth but deliberately forgets the “behind the ears bit”, and snuggles down into his warm bed. A winter storm bends the trees outside as the wind and rain lash the bedroom window. \n<br>\"Ready, Daddy, tell me my story. Make it really exciting.\"\n<br>\"Ok, but it better not give you nightmares.\"\n<br><br>Dad starts his story in traditional form.\n<br>\"Once upon a long time ago in a country named Scandia, Christmas was called Yule, and was the time in late December when the sun disappeared below the sky. It wouldn`t reappear again until January when the 'Yule Sacrifice' was made to soothe the Sun Goddess` anger at being shut out for so long.\"\n<br>\"What kind of sacrifice, Daddy?\"\n<br>\"It was a sacrifice called Alfablot in the honour of the god Elf-Splendour and was held to respect the souls of the elven ancestors who dwelled in woods and hills.\"\n<br>\"What are ancestors, daddy?\"\n<br>\"Dead people, Jonathan ... very dead people from their ancient past. These ancestors were the light elves and the dark elves. With the days growing shorter and the power of death and darkness growing greater, the white elves had special powers to protect the Scandian people from the Rule of Death and the Underworld but only if they were well fed. So the elves were offered beer, meat and blood to soothe and please them. Alfablot was the day they believed the Sun was swallowed then gave birth to her new self, to a new cycle later in January. Remember Scandia had no daylight at all for two weeks. Do you know that Santa Clause lives near Scandia in Lapland?\"\n<br><br>Daddy said more to lighten things. But Jonathan`s attention had been grabbed by the scary narrative.      \n<br>\"Daddy, what was the Rule of Death? Where was this Underworld?\"\n<br>\"Jonathan, I hope this wont give you nightmares otherwise I`m going to be in big trouble with mummy.\"\n<br>\"Och! Daddy, come on. I`m a big boy now. I watch Doctor Who.\"   \n<br>\"OK, but no complaining to your mum if you can`t get to sleep.I`ll deny I was responsible. And stop asking so many questionsplease or we`ll never finish.\"\n<br><br>Daddy answers Jonathan`s question.\n<br>\"The Rule of Death was a time when the wandering dead called the Asgard Riders rode through the black nights of winter. These dark elves from the Underworld were the condemned souls of our dead ancestorsand were dangerous to any who crossed their paths. The riders were helped by a large wolf called Hyndla. She had the reputation for satisfying her greedy hunger by eating those she came across that she didn`t like. She wasn`t all evil but dangerous if she caught you on your own.\"\n<br><br>Jonathan`s eyes were wide open as Daddy continues with the tale.\n<br>\"A wee boy named Vidar was out gathering some firewood with his young sister Abilene whose name in Norse means 'born where the grassy mound grows'. She had been called Abilene because near where she had been born was a small hill where the white elves were supposed to live.\"\n<br>\n<br>Daddy continued.\n<br>\"It was the middle of winter and close to the shortest day which meant there was only one hour of daylight, and they had been told by their father to return before the darkness fell. Unfortunately they were so busy gathering sticks they had wandered further into the woodland than they meant. Abilene was the first to notice the night falling and shouted to her brother, Vidar, Vidar, we must be getting back. We have been away well over one hour, and it`s already dark. Vidar whose name in old Norse meant 'fighter in the woods', had gathered a large bundle of kindling for their hearth place and would be well praised by his dad as their fire was the most important thing to keep alight during these long days ofdarkness. But as they reached the edge of the forest, a sudden blast of wind whistled through the trees blowing the leaves high into the sky. A crowd of black ravens took flight, calling noisily to each other in alarm before disappearing over the treetops. Then the wind dropped as suddenly as it had had arisen. There was a silence in the wild forest. A tree branch snapped and startled the two children.\n<br>\n<br>\"They noticed a strong stinky smell, and could just see a pair of sickly yellow eyes gleaming from the trees. Suddenly a large snarling wolf came out from the black forest right in front of them. She had terribly bad breath as she spat between her teeth, So what have we here, my pretty ones…. and why out so late? Vidar was the first to speak and stood defiantly in front of the wolf with Abilene hiding behind in order to shelter her from the wolf`s hungry eyes.\n<br>I ..ammm out gathering wood for my fire, his wee voice stammered.\n<br>The wolf growled, My name is Hyndla, I am keeper of the Rule of Death and this is my forest. You should not be here so late and you must pay for your mistake. \n<br>Ssss ….sorry Sir, said Vidar, I don`t mean to cause you any trouble. I`ll bid you good night and be on my way home.\n<br>I don’t think so, my dear friend, said the wolf in a very definite tone. You`re not going anywhere. And who have we here hiding behind you, stand aside and be quick about it, she snapped.\n<br><br>\"Abilene had been watching this conversation closely, and came out boldly from behind Vidar. She walked right up to where the wolf stood, and glared straight into her sickly bloodshot eyes.\n<br>And who are you to command us to stop in our forest? commanded Abilene shaking her wee fist in her face. Are you so blind as to see we are in the company of our guardian angels, the Light Elves of Alfheim, friends of the god Freyr. I think it`s you who should be off, and be quick about it! she exclaimed.\n<br><br>\"Hyndla was taken aback at this little snitch of a girl coming boldly forward. She had been ready to grab these two little morsels in her jaws, carry them off into the woods to enjoy as a snack then spit their bones out for the crows. But she thought twice. The White Elves of Alfheim had a fearsome reputation and she knew they possessed powerful magic which they could use to make themselves invisible. They were a dangerous enemy if made angry. They had very sharp teeth,each carrying a long pointed spear which they could jab into the face of an enemy, and were very, very bad tempered. Enough was enough. A long hard winter lay ahead, and Hyndla was in no mood to risk a fight so early in the seasoneven if she couldn`t see these evil little demons. Keeping whatlittle dignity she had left, she muttered, Well, all right, I`ll let you off this time but just be careful not to get caught out at night again.\n<br>With that she turned round, tail between her legs, and slunkinto the darkness.\n<br>Vidar stood amazed at his little sisters boldness. Where did you get all that stuff about elves? he said in amazement with new admiration for his sister.\n<br>Well, she said, thank you for trying to protect me but I realised that if I didn’t think of something to say, and quick, we both might have been on the wolf`s plate that night.\n<br>Abilene went on to say, You forget that the name Abilene means 'born where the grassy mound grows' and I was actually born near a fairy knoll. Since my birth, I have been quietly talking to the white elf angels who have always promised to look after me if I ever was in trouble. I don’t tell my big brother everything. I think we had better be off beforewe have any further adventures.\n<br>Hand in hand, they skipped happily along the track and were soon safely home to bed as snug as a bug in a rug.\n<br>\n<br>\"Well, Jonathan, that`s you story for tonight. Have you prayed to your guardian angel yet....Jonathan?\"\n<br>Jonathan gave a gentle snore in reply so happily for him no nightmares that night.\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-6k"
         }
       ]
     }
