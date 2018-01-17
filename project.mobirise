@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "anthology.html",
     "versionFirst": "3.8.4",
-    "uniqCompNum": 227,
+    "uniqCompNum": 229,
     "versionPublish": "4.5.4",
     "name": "My Site",
     "theme": {
@@ -206,7 +206,7 @@
     "syllabus.html": {
       "settings": {
         "title": "SYLLABUS",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Syllabus"
       },
       "components": [
@@ -373,7 +373,7 @@
     "books.html": {
       "settings": {
         "title": "BOOKS",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Books"
       },
       "components": [
@@ -653,7 +653,7 @@
     "news.html": {
       "settings": {
         "title": "NEWS",
-        "order": 6,
+        "order": 7,
         "meta_descr": "Nwews"
       },
       "components": [
@@ -903,7 +903,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "ANTHOLOGY",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1009,7 +1009,7 @@
             "paddingBottom": "0",
             "bgColor": "#c5f4c5"
           },
-          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" target=\"_blank\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Scary Story                                              \n</b></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Double Standards - The Rudolf Hess Cover-up\n</b></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
+          "text": "<p><b><br></b></p><h2>ANTHOLOGY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h2><h2>(this page is under construction)</h2><p><b><br></b></p><p><br></p><p><b>The presentations appearing here have been submitted by our members. They are not arranged in any particular order (click on the title to open). Views expressed in these submissions are those of the author and do not necessarily reflect those of Eastwood Writers or its members,\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><b>CONTENTS\n</b></p><p><b>\n</b></p><span style=\"font-size: 16px;\"><u><a href=\"page5.html\" class=\"text-danger\"><b>WILDERNESS HOUSE</b></a></u></span><br><p><b>\n</b></p><p><b>by Ronnie Mail</b></p><p><b><br></b></p><p><b><a href=\"page6.html\" class=\"text-danger\"><b><u>JANE THOUGHT SHE HAD FOUND MR RIGHT</u></b></a>&nbsp;</b></p><p><b>by Gerry McKendry\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b><u>SCARY STORY</u></b></p><p><b>by Walter Sneader\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Double Standards - The Rudolf Hess Cover-up\n</b></p><p><b>by Wallace Hunter\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>The Killing at Kildonan\n</b></p><p><b>by Donald Montgomery\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Jane Slips Up\n</b></p><p><b>by Nada Mooney\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><b>A Quiet Belief in Angels\n</b></p><p><b>by Cully Pettigrew\n</b></p><p><b>\n</b></p><p><b><br></b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1038,7 +1038,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Wilderness House",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1085,7 +1085,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Jane Thought she had Found Mr Right",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1223,6 +1223,153 @@
           ],
           "_name": "header5",
           "_anchor": "header5-6a"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Scary Story",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2b0680"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2b0680",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2b0680",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#3d8eb9",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#2b0680",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"syllabus.html\">SYLLABUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"books.html\">BOOKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"news.html\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"anthology.html\">ANTHOLOGY</a></li>",
+          "_anchor": "menu-6b"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Scary Story",
+          "text": "<br><b>                  by Walter Sneader\n</b><br>The road ahead was disappearing as the mist came down, thicker and thicker. Combined with fading light, it offered a considerable challenge for my driving skills. Undaunted, I forged ahead as best I could. But after a further 20 minutes I began to worry that I might have to abandon my plans. Suddenly, without warning, the car hit a large pothole. There was a sickening crunch from the front suspension. And that was the end of my journey. There was no way I could continue. Worse still, there was not a signal on my phone that would allow me to summon help.\n<br>\n<br>\n<br>When I switched off the headlights, it was very dark. I stepped out the vehicle and looked around, but could not make out anything. When my eyes eventually became accustomed to the darkness, I spotted a lonely cottage about 400 yards to my left. I immediately headed for it. With considerable disappointment I realised there were no lights or any other sign of life.\n<br><br>The door was on the side of the cottage. To my surprise, it swung open when I knocked. I did not enter at that point. Instead I shouted,\n<br>“Anyone at home? My car has broken down.”\n<br>Receiving no reply, I stepped inside. If there was a light switch, I could not find it. Instead, I took out my phone and turned on its feeble light. I was in a small room with a wooden table and four chairs. The only other furnishing was a Dutch dresser.\n<br><br>Cautiously, I entered the other room. It was slightly larger, with a single bed. In front of the opposite wall was an old-fashioned bath mounted on small legs. It was half filled with water. Something was soaking in it.  when I turned the light to make out more detail, I was shocked to discover it was a body! \n<br><br>When I had eventually recovered my composure, I could see that the body was that of a fully clothed young man. There was no sign of life. I could not believe my own eyes. With growing panic, I hurriedly checked out the rest of the room. There was something lying on the chair. It was small. A gun. My stomach turned.\n<br>\n<br>A moment later, I heard a strange noise from above me. At first, I thought it was a bird. But the whirring noise was too mechanical. Pointing my torch upwards, I saw that there was something hovering above me. I think it was some sort of mechanical device, with a flashing red light. It was about 18 inches wide, of square shape. Then suddenly I was temporarily blinded by a small spotlight mounted on the hovering object. An artificial voice booked out at me,\n<br>“Remain where you are! Do not move. You are trespassing.”\n<br>\n<br>This was the last straw. My heart was pounding. What was I to do? I decided wisdom was the best part of valour. I froze. In more senses than one.\n<br><br>About ten minutes later, I heard a car driving up to the cottage. Two men got out and I could hear what they were saying,\n<br>“Hope this isn’t another of those false alarms, The damn drone is far too sensitive. It picks up everything, even mice running about.”\n<br>“Aye. We’ll have to get it adjusted. This is the third time it’s called us out. Pretty annoying,” replied the second voice.\n<br>\n<br>Two men entered the cottage. The dining room first. I was shaking all over. I was about to be their next victim! I could sense the door opening as they entered the room I was in.\n<br><br>A powerful torch was pointed at me.\n<br>“Who the hell are you?” demanded the torch bearer.\n<br>“I, I am the driver of a car that has broken down.”\n<br>“Really? And you thought you’d just have a look round the cottage.”\n<br>“I meant no harm. The door was unlocked. Nobody answered when I rang the bell, so ii came in. That’s all.”\n<br>“A likely story. I bet you came deliberately to see what was here.”\n<br>Then I remembered the body in the bath. Somehow these two men must have been responsible. I was in deep trouble. <br>\n<br>Glancing around, I could just make out the doorway, I was nearer to it than either of my interrogators. Could I make a dash for it? I did. With no further hesitation, I darted out the room and headed for the cottage door. I managed to escape but the two thugs were in hot pursuit. I ran as fast as my legs would take me, hoping the darkness might save me. But I forgot about the pothole that had ruined the suspension of my car. My left foot went straight in to another one. I fell heavily.\n<br>\n<br>“Ok, smart Alex. You didn’t imagine you’d get away. Did you? I’m going to have to call the cops. You’re in real trouble!”\n<br>\n<br>I thought fast.\n<br>“You wouldn’t dare. Not with that body in the bath!”\n<br>He grabbed my arm and pulled me back to the cottage. This time it was lit up. I was taken in to the room with the bath. To my horror, my captor bent over it and pulled the corpse out.\n<br>“What are you doing? ” I yelled.\n<br>He grabbed the corpse and hoisted it up. He threw it at me. I caught it grimly, feeling utterly stupid when I realised that it was an inflatable doll! \n<br>“Didn’t you know that you had trespassed into a film set?”\n<br>I realised how stupid I had been.\n<br>“Are you still going to call the police?” I asked nervously.\n<br>“Don’t be daft. The nearest constable lives nearly forty miles from here. He wouldn’t take kindly to our pestering him so late at night. Away you go!”\n<br>\n<br>\n<br>\n<br>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-6c"
         }
       ]
     }
