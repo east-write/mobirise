@@ -658,6 +658,14 @@ h6,
 #header3-3g H3 {
   text-align: right;
 }
+#features3-3i P {
+  color: #000000;
+  font-size: 20px;
+}
+#features3-6q P {
+  color: #000000;
+  font-size: 20px;
+}
 #header3-3h .mbr-section-title,
 #header3-3h .mbr-section-subtitle {
   text-align: center;
@@ -667,10 +675,6 @@ h6,
 }
 #header3-3h B {
   color: #000000;
-}
-#features3-3i P {
-  color: #000000;
-  font-size: 20px;
 }
 
 #menu-3l .hide-buttons .nav-btn {
@@ -1304,4 +1308,73 @@ h6,
 }
 #header5-6k .mbr-section-lead {
   color: #000000;
+}
+
+#menu-6m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6m .navbar-caption {
+  color: #ffffff;
+}
+#menu-6m .navbar-toggler {
+  color: #2b0680;
+}
+#menu-6m .link,
+#menu-6m .dropdown-item {
+  color: #2b0680;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-6m .link {
+  font-size: 1.2rem;
+}
+#menu-6m .dropdown-item,
+#menu-6m .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#menu-6m .link:hover,
+#menu-6m .dropdown-item:hover,
+#menu-6m .link:focus,
+#menu-6m .dropdown-item:focus {
+  color: #f7da64;
+}
+#menu-6m .link[aria-expanded="true"],
+#menu-6m .dropdown-menu {
+  background: #307193;
+}
+#menu-6m .nav-dropdown-sm .link:focus,
+#menu-6m .nav-dropdown-sm .link:hover,
+#menu-6m .nav-dropdown-sm .dropdown-item:focus,
+#menu-6m .nav-dropdown-sm .dropdown-item:hover {
+  background: #3985ad!important;
+}
+#menu-6m .navbar,
+#menu-6m .nav-dropdown-sm,
+#menu-6m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6m .nav-dropdown-sm .dropdown-menu {
+  background: #3d8eb9;
+}
+#menu-6m .bg-color.transparent .link {
+  color: #2b0680;
+  transition: none;
+}
+#menu-6m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6m .bg-color.transparent.opened .link:hover,
+#menu-6m .bg-color.transparent.opened .link:focus {
+  color: #f7da64;
+}
+#menu-6m .link[aria-expanded="true"],
+#menu-6m .dropdown-item[aria-expanded="true"] {
+  color: #f7da64!important;
+}
+#menu-6m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6m .close-icon::before,
+#menu-6m .close-icon::after {
+  background-color: #2b0680;
 }
