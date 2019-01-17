@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -640,13 +640,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .form-control,
 .form-control:focus {
@@ -1295,30 +1295,4 @@ body {
 }
 .cid-qZFOhHFaFW {
   background: linear-gradient(45deg, #2f2d60, #2f2d60);
-}
-.cid-qZGamhcubn {
-  background: linear-gradient(45deg, #2f2d60, #6576aa);
-}
-.cid-qZX67iFi91 {
-  background: linear-gradient(45deg, #2f2d60, #ff7f9f);
-}
-.cid-r2zUHZO9zS {
-  background: linear-gradient(45deg, #2f2d60, #232323);
-}
-.cid-r2zUHZO9zS .mbr-text,
-.cid-r2zUHZO9zS .mbr-section-btn {
-  text-align: left;
-}
-.cid-r2zUHZO9zS H1 {
-  color: #ffffff;
-}
-.cid-r3DVwKZRWd {
-  background: linear-gradient(45deg, #2f2d60, #f7ed4a);
-}
-.cid-r3DVwKZRWd H1 {
-  color: #232323;
-}
-.cid-r3DVwKZRWd .mbr-text,
-.cid-r3DVwKZRWd .mbr-section-btn {
-  color: #232323;
 }
